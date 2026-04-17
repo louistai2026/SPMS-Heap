@@ -129,4 +129,5 @@ ________________________________________
 •	OES and OCAS must each be ≥ 50% to pass.
 ________________________________________
 8. Link to 5-minute introduction video
-https://www.dropbox.com/scl/fi/c6uzjjzrq1vkzk2vwrkmv/20260417_104144.mp4?rlkey=qnj17t7qredrcgkvu3i3krohs&st=512yobpk&dl=0
+https://www.dropbox.com/scl/fi/xb4ri8haauy7u1zbe5oul/Individual-Project-Task-1-Introduction-Video.mp4?rlkey=of4kjzq1u829o7ct276g0eonz&st=10qbvfw5&dl=0
+
